@@ -59,4 +59,8 @@ public class User implements Serializable {
     this.status = status;
     this.role = role;
   }
+
+  public User() {
+
+  }
 }
