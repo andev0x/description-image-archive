@@ -1,5 +1,6 @@
 ### WeatherNow app
-##### 1. Tech Stack
+#### 1. Tech Stack
+
 - Jetpack Compose
 - UI State
 - ViewModel
@@ -7,7 +8,7 @@
 - Error Handling 
 - Retrofit2
 
-##### 2. Architecture
-  <img src="" 
-  style="height: 678px; width: 469px;"/> <br> Figure 1. Architecture application
+#### 2. Architecture
+
+  <img src="https://raw.githubusercontent.com/anvng/description-image-archive/main/WeatherNow/img/architecture-weathernow.png" /> <br> Figure 1. Architecture application
 
