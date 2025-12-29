@@ -11,6 +11,8 @@ logs/
 # OS generated files
 .DS_Store
 Thumbs.db
+.commit_suggest_history.json
+
 
 # Environment files
 .env
